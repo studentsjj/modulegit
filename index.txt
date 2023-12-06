@@ -1,4 +1,2 @@
 Title : welcome
 Content : Html et CSS
-Body : This is the body
-Footer : Copyright 2023
